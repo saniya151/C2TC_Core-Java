@@ -7,6 +7,8 @@ interface Language{
 
 //Class implements interface
 class ProgrammingLanguage implements Language{
+	
+	//Implementation of abstract method
 	public void getName(String name) {
 		System.out.println("Programming Language :" +name);
 		}
@@ -20,5 +22,5 @@ public class InterfaceExample {
 		language.getName("Java");
 
 	}
-
+  
 }
