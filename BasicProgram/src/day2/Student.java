@@ -4,6 +4,7 @@ public class Student { //Declaration of class
 	
 	int stud_id; //Declaration of data types
 	String name;
+	
 	void display() {
 	
 	System.out.println("Student Id:" +stud_id);
