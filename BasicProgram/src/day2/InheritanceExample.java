@@ -9,8 +9,10 @@ class A{ //super class
 	}
 }
 
-class B extends A{            //extends keyword is used to derive a new class from an existing class
-	                         //It is also called as sub class
+
+//extends keyword is used to derive a new class from an existing class
+//It is also called as sub class
+class B extends A{            
 	void msg2() {
 		System.out.println("I am an Engineer");
 	}
