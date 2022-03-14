@@ -23,7 +23,7 @@ package day4;
    }
    
 //Instance variables can be accessed directly by calling the variable name inside the class.
-// And within static methods they are called using the "ObjectReference.VariableName"
+//And within static methods they are called using the "ObjectReference.VariableName"
 
    public static void main(String args[]) {
 	  InstanceVariables empOne = new InstanceVariables("Saniya");
