@@ -1,4 +1,4 @@
-package day8;
+package day10;
 
 //Input Scanner class
 import java.util.Scanner;
