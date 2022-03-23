@@ -1,4 +1,4 @@
-package day8;
+package day6;
 
 //Program to take input and  print table upto 10
 

@@ -1,4 +1,4 @@
-package day10;
+package com.tns.library.day10;
 
 import java.io.BufferedReader;
 import java.io.InputStreamReader;

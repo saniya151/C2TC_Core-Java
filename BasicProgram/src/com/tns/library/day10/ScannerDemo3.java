@@ -1,4 +1,4 @@
-package day10;
+package com.tns.library.day10;
 
 //Input Scanner class
 import java.util.Scanner;
