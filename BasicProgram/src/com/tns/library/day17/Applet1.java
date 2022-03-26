@@ -7,10 +7,11 @@ import java.awt.TextField;
 public class Applet1 extends Applet{
 	Button b;
 	TextField f;
+	
 	public void init() {
 		b = new Button("click");
-		f = new TextField(10);
 		add(b);
+		f = new TextField(10);
 		add(f);
 	}
 }
