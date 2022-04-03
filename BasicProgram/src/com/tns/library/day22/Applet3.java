@@ -36,15 +36,7 @@ public boolean action(Event e, Object o) {
 	String s3 = String.valueOf(c);
 	t3.setText(s3);
 	
-//	if(e.target.equals(a))
-//		t1.setText("");
-//	
-//	if(e.target.equals(b))
-//		t2.setText("");
-//	
-//	if(e.target.equals(b))
-//		t3.setText("");
-	
+
 	return true;
 	
 	
