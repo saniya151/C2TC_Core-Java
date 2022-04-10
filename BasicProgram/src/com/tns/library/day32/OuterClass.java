@@ -32,7 +32,7 @@ class A implements ActionListener{
 			oc.t.setText("Hello World");
 			
 		}
-	}
+}
 
 
 class B implements ActionListener{
