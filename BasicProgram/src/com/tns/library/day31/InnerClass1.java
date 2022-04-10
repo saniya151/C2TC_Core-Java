@@ -39,5 +39,3 @@ public class InnerClass1 extends Applet implements ActionListener{
 		
 		
 }
-	
-	

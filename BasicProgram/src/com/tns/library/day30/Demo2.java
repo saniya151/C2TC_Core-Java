@@ -24,3 +24,4 @@ public class Demo2 implements Demo1{
 		d2.m3();
 	}
 }
+
