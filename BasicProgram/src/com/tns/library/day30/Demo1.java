@@ -1,4 +1,4 @@
-package com.tns.library.day29;
+package com.tns.library.day30;
 
 public interface Demo1 {
 	
